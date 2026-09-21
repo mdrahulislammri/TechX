@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none" class="tx-monogram-svg">
+  <!-- TechX Geometric TX Monogram Vector -->
+  <g fill="currentColor">
+    <!-- Top-left T-bar and left wing -->
+    <path d="M 60,60 L 420,60 L 420,130 L 145,130 L 60,60 Z" />
+    <path d="M 145,160 L 230,160 L 230,270 L 145,160 Z" />
+    <!-- T Vertical Stem & Interlocking Diagonal -->
+    <path d="M 260,130 L 340,130 L 340,340 L 260,340 Z" />
+    <!-- X Right-leaning diagonal bar -->
+    <path d="M 330,60 L 430,60 L 660,340 L 560,340 Z" />
+    <!-- X Left-leaning diagonal bar with cut -->
+    <path d="M 480,60 L 740,60 L 740,60 L 400,340 L 300,340 L 480,180 Z" />
+  </g>
+</svg>
+
